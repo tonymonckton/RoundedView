@@ -2,7 +2,8 @@
 
 Rounded View is a subclass of UIView, it can display rounded UIView with an image or empty. 
 
-  - Integrated into Interface builder; roundness, stoke and colours
+  - Integrated into Interface Builder; roundness, stoke and colours
+  - Live rendering in Interface Builder
   - Reusable code
   - Landscape and portrait orientation
   - Class sizes for iPad and iPhone
