@@ -15,16 +15,6 @@ Rounded View is a subclass of UIView, it can display rounded UIView with an imag
 ##### interface builder
 ![interface builder](http://www.tonymonckton.co.uk/github/imageview1.jpg)
 
-### Gestures
-currently is has the following gestures
-* Refresh gesture pulldown. for refreshing with new content.
-* Pinch-in gesture, reduces number of images on each row
-* Pinch-out gesture, increases number of images on each row
-
-### New Features coming soon..
-
-  - full screen image view with swiping
-
 ### Installation
 
 *download the zip file.
