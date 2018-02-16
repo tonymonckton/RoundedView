@@ -18,9 +18,9 @@ Rounded View is a subclass of UIView, it can display rounded UIView with an imag
 
 ### Installation
 
-*download the zip file.
-*unzip
-*add RoundedImageView.swift and/or RoundedView.swift to your project
+ - download the zip file.
+ - unzip
+ -add RoundedImageView.swift and/or RoundedView.swift to your project
 
 ### Change Log
 * v1.0 first commit
