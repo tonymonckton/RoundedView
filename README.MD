@@ -11,10 +11,10 @@ Rounded View is a subclass of UIView, it can display rounded UIView with an imag
 ### Images
 
 ##### iPad
-![ipad](http://www.tonymonckton.co.uk/github/imageViewiPad.png)
+![ipad](imageViewiPad.png)
 
 ##### interface builder
-![interface builder](http://www.tonymonckton.co.uk/github/imageview1.jpg)
+![interface builder](imageview1.jpg)
 
 ### Installation
 
